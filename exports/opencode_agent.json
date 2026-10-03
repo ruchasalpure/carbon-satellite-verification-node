@@ -1,0 +1,8 @@
+{
+  "agent_id": "carbon-satellite-verification-node",
+  "protocol": "opencode/v1",
+  "capabilities": [
+    "autonomous",
+    "governed"
+  ]
+}

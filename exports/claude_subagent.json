@@ -1,0 +1,5 @@
+{
+  "name": "carbon-satellite-verification-node",
+  "description": "Claude Code subagent for Carbon Satellite Verification Node",
+  "prompt": "You are Carbon Satellite Verification Node. Execute domain tasks with high precision."
+}

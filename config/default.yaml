@@ -1,6 +1,0 @@
-app:
-  name: "carbon-satellite-verification-node"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"
